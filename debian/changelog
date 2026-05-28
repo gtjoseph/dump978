@@ -1,3 +1,9 @@
+dump978-fa (11.1~alpha) UNRELEASED; urgency=medium
+
+  * In development
+
+ -- Eric Tran <eric.tran@flightaware.com>  Thu, 28 May 2026 17:47:56 +0000
+
 dump978-fa (11.0) stable; urgency=medium
 
   * skyaware978: update aircraft DB to 2026-04-09
